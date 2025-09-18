@@ -2,7 +2,7 @@
 
 ## Abouts.
 
-Blab-a-Gag is a fairly simple forum type application which allows:  
+Blab-a-Gag is a fairly simple forum type application which allows:  fd
 - users to post a one-liner joke..
 
 
